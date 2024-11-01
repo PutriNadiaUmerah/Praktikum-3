@@ -10,7 +10,8 @@
 
 ## program 1
 
-![Program 1](https://github.com/user-attachments/assets/9169bb7f-5671-42d1-8488-1223b8e17714)
+![kodingan Program 1](https://github.com/user-attachments/assets/1da9a2f4-0803-44e3-9ba1-a96dc2cb17e3)
+
 
 ## output latihan 1
 
